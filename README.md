@@ -6,11 +6,11 @@
 ## Tu viaje en un ticket
 
    BusTicket es una web-app en la que el usuario pued encontrar todos los horarios disponibles para Cuernavaca.
-   Através de la cuál el usuario obtiene un código QR con la información de su viaje.
+   A través de la cuál el usuario obtiene un código QR con toda la información de su viaje.
 
    # Reto
 
-   Mejorar el Journey de viaje de un usuario de la CDMX  a Cuernavaca.
+   Mejorar la experiencia de usuarion en un viaje en autobus de la Ciudad de México a Cuernavaca.
 
    # Enunciado del problema
 
@@ -28,7 +28,7 @@
 
    ![empathy.png](assets/images/empathy.png)
 
-   # Reserch
+   # Research
 
    Se diseñó un cuestinario para saber los insights  poder diseñar una Landing page.
 
@@ -62,7 +62,7 @@
 
    # Sketch
 
-   ![sketch.JPG](assets/images/sketch.jpg)
+   ![sketch.JPG](assets/images/BusTicketLanding.png)
 
 ## D E S A R R O L L O
 
@@ -98,5 +98,11 @@
 
 
    # Nosotros ponemos la tecnología para que tu disfrutes la experiencia
+
+## C O N C L U S I O N E S
+
+  Gracias al proceso de diseño fue posible identificar las necesidades de los usuarios, plantear una hipotesis de solución y validarla a tráves de la investigación.
+
+  Despues de diversas sesiones de feedback e iteraciones estamos convencidas de que nuestra solución de BusTicket es capaz de mejorar la experiencia de usuario en el trayecto Ciudad de México a Cuernavaca por autobus al facilitar los procesos, implementar medidas de seguridad y acortar los tiempos de espera.
 
    # BusTicket 2018
