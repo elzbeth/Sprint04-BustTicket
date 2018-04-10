@@ -1,5 +1,5 @@
 # BUS TICKET
-
+![white-bus-driving-along-the-asphalt-road-at-sunset-picture-id614316294-1-612x408](https://user-images.githubusercontent.com/18369577/38586265-bfa73348-3ce2-11e8-8353-83c2dfa38a98.jpg)
 * **Track:** _UX Specialization_
 * **Sprint 04:** _UX PROCESS_
 
